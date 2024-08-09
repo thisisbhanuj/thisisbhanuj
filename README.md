@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @thisisbhanuj
+- 👀 I’m interested in whatever itrigues me
+- 🌱 I’m currently learning DSA
+- 📫 How to reach me : https://www.linkedin.com/in/bhanujbawdhane/
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: Life is funny
