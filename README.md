@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisbhanuj
+- 👋 Hi, I’m Bhanuj!
 - 👀 I’m interested in whatever itrigues me
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me : https://www.linkedin.com/in/bhanujbawdhane/
