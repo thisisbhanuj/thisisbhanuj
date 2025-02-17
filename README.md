@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanuj!
 - 👀 I’m interested in whatever itrigues me
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently transitoning into Data Engineering / AI
 - 📫 How to reach me : https://www.linkedin.com/in/bhanujbawdhane/
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Life is funny
