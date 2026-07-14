@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanuj!
 - 👀 I’m interested in whatever itrigues me
-- 🌱 I’m bulldozing into AI Paltform Archietctures and Governance
+- 🌱 I’m bulldozing into AI Paltform Architectures and Governance
 - 📫 How to reach me : https://www.linkedin.com/in/bhanujbawdhane/
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Life is funny
