@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhanuj!
 - 👀 I’m interested in whatever itrigues me
-- 🌱 I’m bulldozing into AI Paltform Architectures and Governance
+- 🌱 I design and build enterprise AI systems, with particular interest in governance, evaluation, reproducibility, data architecture, and operational reliability.
 - 📫 How to reach me : https://www.linkedin.com/in/bhanujbawdhane/
-- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Life is funny
