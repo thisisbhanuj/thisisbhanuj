@@ -1,10 +1,10 @@
-👋 Hi, I’m Bhanuj!
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/30ca7cbf-496d-48df-aca3-44787fe16276" />
 
-Principal Engineer
 
-Governance · Evaluation · Agent Reliability · Data Platforms · Cloud Architecture
+👋 Hi, I’m Bhanuj.
 
-- 👀 I’m interested in whatever itrigues me
-- 🌱 I design and build enterprise AI systems, with particular interest in governance, evaluation, reproducibility, data architecture, and operational reliability.
-- 📫 How to reach me : https://www.linkedin.com/in/bhanujbawdhane/
-- ⚡ Fun fact: Life is funny
+- I design and build enterprise AI systems.
+- I’m particularly interested in governance, evaluation, reproducibility, data architecture, and operational reliability.
+- Lately, I’ve been exploring how to make AI systems more observable, testable, and safe to evolve.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bhanujbawdhane/)
+- ⚡ Fun fact: Life is funny.
