@@ -1,6 +1,7 @@
 👋 Hi, I’m Bhanuj!
 
-Principal Engineer building enterprise AI systems.
+Principal Engineer
+
 Governance · Evaluation · Agent Reliability · Data Platforms · Cloud Architecture
 
 - 👀 I’m interested in whatever itrigues me
